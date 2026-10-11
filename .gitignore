@@ -1,0 +1,14 @@
+# intellij files
+.idea/
+*.iml
+out/
+
+# compiled java files
+*.class
+
+# build folders
+target/
+build/
+
+# macos files
+.DS_Store
